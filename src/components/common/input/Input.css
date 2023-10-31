@@ -1,0 +1,25 @@
+.form-input {
+  font-size: 0.9em;
+  border-radius: 3px;
+  border: 1px solid #d4d4d4;
+  padding: 0.5rem 0.5rem;
+}
+
+.form-input::placeholder {
+  font-weight: lighter;
+  opacity: 0.5;
+}
+
+.form-input:focus {
+  outline: none;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.form-group>label {
+  margin-bottom: 4px;
+}

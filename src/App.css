@@ -1,0 +1,53 @@
+.app-body {
+  margin-top: 70px;
+  min-height: calc(100vh - 70px);
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-secondary {
+  font-size: 0.8rem;
+  margin-top: 5px;
+}
+
+button:disabled {
+  opacity: 0.5 !important;
+  cursor: not-allowed;
+}
+
+.display-flex {
+  display: flex;;
+}
+
+.error-text {
+  font-size: 0.8rem;
+  color: red;
+  margin-top: 2px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
+.greeting-text {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-transform: capitalize;
+}
+
+.required-star {
+  color: red;
+}

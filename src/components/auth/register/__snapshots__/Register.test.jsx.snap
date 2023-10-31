@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login Page should render register page 1`] = `
+<div>
+  <div
+    class="sc-dkzDqf iGZwPq"
+  >
+    <div
+      class="sc-gsnTZi eyomTB card"
+      style="width: 400px;"
+    >
+      <div
+        class="card-title text-center"
+      >
+        Join as a client or freelancer
+      </div>
+      <div
+        class="card-content"
+      >
+        <div
+          class="sc-ftvSup fvORvb"
+        >
+          <div
+            class="sc-papXJ ceQOAN"
+          >
+            I'm a client, hiring for a project
+          </div>
+          <div
+            class="sc-papXJ ceQOAN"
+          >
+            I'm a freelancer, looking for work
+          </div>
+        </div>
+        <div>
+          <div
+            style="display: flex; justify-content: center;"
+          >
+            <button
+              class="sc-bczRLJ cVLaUc form-button"
+              disabled=""
+              id="joinBtn"
+              name="joinBtn"
+              type="button"
+            >
+              Create Account
+            </button>
+          </div>
+        </div>
+        <div>
+          <hr />
+          <p
+            class="text-center"
+          >
+            Already have an account?
+          </p>
+          <div
+            style="display: flex; justify-content: center;"
+          >
+            <button
+              class="sc-bczRLJ cBkcFt form-button"
+              id="signInBtn"
+              name="signInBtn"
+              type="button"
+            >
+              Log In
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
